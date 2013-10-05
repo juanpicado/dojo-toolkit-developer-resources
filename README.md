@@ -16,6 +16,7 @@ And your could use **util** packages to create your own builds.
 * [Dojo Toolkit Official Tutorials](http://dojotoolkit.org/documentation/)
 * [Dig into Dojo](http://net.tutsplus.com/sessions/dig-into-dojo/)
 * [API](http://dojotoolkit.org/api/)
+* [Mail List](http://mail.dojotoolkit.org/mailman/listinfo)
 
 
 #### Source Code
